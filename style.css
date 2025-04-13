@@ -299,16 +299,18 @@ header button{
     text-transform: uppercase;
 }
 .services-title {
-    font-size: 36px;
-    font-weight: 700;
-    color: #1e1e2f;
-    margin-bottom: 50px;
+    font-size: 40px;
+    font-weight: 900;
+    color: #181E4B;
+    margin-bottom: 60px;
+    font-weight: 1600;
+    font-family: Georgia, serif;
 }
 .services-cards {
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
-    gap: 30px;
+    gap: 60px;
 }
 .services-card-wrapper {
     position: relative;
